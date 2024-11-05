@@ -1,4 +1,4 @@
-# SQL_LITA_PROJECT
+# SQL_LITA_PROJECT [download here](https://github.com/adegbitefisayo/SQL_LITA_PROJECT.git)
 ## PROJECT OVERVIEW
 
 ##projet title: SALES DATA CSV
